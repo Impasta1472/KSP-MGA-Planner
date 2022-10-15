@@ -46,7 +46,7 @@
 
 - !!map
   id:                 3
-  name:               Kerbin
+  name:               Earth
   radius:             6371000
   atmosphereAlt:      140000.0
   mass:               5.9721683987249e+24
@@ -135,25 +135,7 @@
   epoch:              0
   orbiting:           5
   color:              0x755e4f
-
-- !!map
-  id:                 8
-  name:               Vesta
-  radius:             262700
-  mass:               259027088523141020000
-  stdGravParam:       17288244969.3
-  soi:                39276806.01910567
-  orbit:
-    semiMajorAxis:    353346223803.158
-    eccentricity:     0.0902068412255369
-    inclination:      22.7696439720361
-    argOfPeriapsis:   236.445369158826
-    ascNodeLongitude: 18.1671232653234
-  meanAnomaly0:       1.0657102610896119
-  epoch:              0
-  orbiting:           0
-  color:              0xffffff
-
+  
 - !!map
   id:                 9
   name:               Ceres
